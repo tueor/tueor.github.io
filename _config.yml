@@ -20,7 +20,7 @@ title                    : "TUEOR"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tueor"
-description              : "我只想在这里没有顾忌地写一些东西"
+description              : "我只想在这里自由地写一些东西"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Tueor"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Anonymous"
-  location         : "Planet Earth"
+  bio              : "我只想在这里自由地写一些东西"
+  location         : "行星地球"
   email            :
   links:
     - label: "Email"
